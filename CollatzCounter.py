@@ -1,9 +1,9 @@
+#///made by steel99xl
 import time
 global x
 global s
 global c
 c = 1
-s = "Line"
 x = c
 print(c)
 while x > 0:
